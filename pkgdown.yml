@@ -1,0 +1,11 @@
+pandoc: 2.16.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  advanced-use: advanced-use.html
+  npi: npi.html
+last_built: 2022-12-15T06:02Z
+urls:
+  reference: https://docs.ropensci.org/npi/reference
+  article: https://docs.ropensci.org/npi/articles
+

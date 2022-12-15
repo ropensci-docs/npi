@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a89e6f66488d27b51c0530911178b5884975699a",
+    "author": "frankfarach <frankfarach@users.noreply.github.com>",
+    "time": "2022-11-15 05:50:04",
+    "files": 1,
+    "merge": false,
+    "message": "Update CITATION.cff\n"
+  },
+  "repo": "https://github.com/ropensci/npi",
+  "pkg": "npi"
+}
