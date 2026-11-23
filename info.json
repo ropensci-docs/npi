@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f5eae3f74be8f4fa2a0fdd5774443a5f1f6c23e6",
+    "author": "Frank Farach <frank.farach@gmail.com>",
+    "time": "2026-09-24T19:39:15Z",
+    "files": 3,
+    "merge": false,
+    "message": "Document daily NPPES data refresh (#91)"
+  },
+  "repo": "https://github.com/ropensci/npi",
+  "pkg": "npi",
+  "time": "2026-11-23T14:44:11Z"
+}
